@@ -11,6 +11,8 @@ namespace GitText
             System.Console.WriteLine("Shhhhhh");
             System.Console.WriteLine("Shhhhhh");
             System.Console.WriteLine("Shhhhhh");
+            System.Console.WriteLine("Shhhhhh");
+            System.Console.WriteLine("Shhhhhh");
             for (int i = 0; i < 5; i++)
             {
                 for (int j = 0; j < 5; j++)
