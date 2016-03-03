@@ -9,6 +9,17 @@ namespace GitText
     {
         public static void Main() {
             System.Console.WriteLine("Shhhhhh");
+            for (int i = 0; i < 5; i++)
+            {
+                for (int j = 0; j < 5; j++)
+                {
+                    if (j <= i)
+                    {
+                        System.Console.Write("*");
+                    }
+                }
+                System.Console.WriteLine();
+            }
             System.Console.ReadLine();
         }
     }
